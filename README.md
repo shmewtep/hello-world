@@ -1,2 +1,3 @@
 # hello-world
 Testing, testing...
+Hello, my name is Kelsey Rook! As of December 2016 I have finished my first semester at Andrews University on my way to earning a bachelor of Science in Computer Science. My first passion is learning and I've certainly had that in my first computing class. While I feel like I'm a bit behind my fellow students as in high school I was too occupied with classes and editing the yearbook to learn much in the realms of computer science, I'm determined to spend my free time learning the ins and outs of programming and excelling alongside my peers.
